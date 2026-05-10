@@ -1,0 +1,66 @@
+ 
+
+
+
+.h1{display: flex;
+justify-content: center;
+color: blue; 
+background-color: black;
+margin: 0;}
+
+
+
+
+.parent{display: flex;
+align-items: center;
+justify-content: center;
+border: 10px solid blue ; 
+width: 450px;
+height: 300px;
+margin: 100px;
+
+
+
+
+}
+
+
+.xob{display: flex;
+border: 5px solid red;
+background-color: yellow;
+padding: 30px;
+margin: 10px;
+
+
+transition-property: height;
+transition-duration: 3s;
+transition-timing-function: ease-in-out;
+
+}
+
+
+
+  
+
+
+
+.xob:hover{background-color: blue;
+height: 100px;
+
+
+
+}
+
+
+
+.footer {
+      background: rgba(0, 0, 0, 0.6);
+      padding: 20px 0;
+      text-align: center;
+      color: #aaa;
+      font-size: 0.9em;
+    }
+
+
+
+
