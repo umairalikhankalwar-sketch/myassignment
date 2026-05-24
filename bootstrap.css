@@ -1,0 +1,15 @@
+.carousel-item img{height: 80%;}
+
+.card-body a:hover{
+    transform:translateY(-10px);
+      border-color:#38bdf8;
+      box-shadow:0 0 20px rgba(56,189,248,0.3);
+}
+
+.container-m{
+    margin-top: 40px;
+    margin-left: 20%;
+}
+.dropdown-menu{
+    transition: 3s;
+}
